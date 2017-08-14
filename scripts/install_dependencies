@@ -4,4 +4,4 @@
 sudo yum install -y php-mysql
 sudo yum install -y php-gd
 sudo yum install -y php-mbstring
-echo "Directory Index index.php" >> /etc/httpd/conf/httpd.conf
+echo "DirectoryIndex index.php" >> /etc/httpd/conf/httpd.conf
