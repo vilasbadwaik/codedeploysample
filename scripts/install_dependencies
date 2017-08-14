@@ -1,4 +1,5 @@
 #!/bin/bash
 # sudo yum install -y httpd
-sudo yum install -y php
+# sudo yum install -y php
 sudo yum install -y php-mysql
+sudo yum install -y php-gd
