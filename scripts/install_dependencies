@@ -5,6 +5,6 @@
 # sudo yum install -y php-gd
 # sudo yum install -y php-mbstring
 # sudo yum install -y php-intl
-sudo yum install -y php-pspell
+# sudo yum install -y php-pspell
 # echo "DirectoryIndex index.php" >> /etc/httpd/conf/httpd.conf
 service httpd restart
